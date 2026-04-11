@@ -15,6 +15,15 @@ This repository contains the core code, input data, processed datasets, and figu
 - `model_panel_clean.csv` — cleaned modelling panel
 - `Figures/` — figures used in the dissertation
 
+## API Access
+
+The generation data script requires a Renewables.ninja API token.  
+Users should obtain their own token and insert it in the script before running.
+
+## Requirements
+
+The analysis was conducted in Python using standard data science libraries. Key dependencies are listed in `requirements.txt`.
+  
 ## Notes
 
 This repository contains the core materials used for the final dissertation submission. Intermediate comparison scripts and large derived output folders were excluded for clarity.
