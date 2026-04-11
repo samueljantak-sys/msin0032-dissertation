@@ -58,7 +58,7 @@ START_YEAR = 2018
 END_YEAR = 2024
 
 # Hard-coded token, as requested.
-TOKEN = "a3eecbe2211e73540e4b031af61dc195c83d48c2"
+TOKEN = "YOUR_RENEWABLES_NINJA_TOKEN"
 API_BASE = "https://www.renewables.ninja/api/"
 SECONDS_BETWEEN_REQUESTS = 20
 TEST_ASSET_LIMIT = None
