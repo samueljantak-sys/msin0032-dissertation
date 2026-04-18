@@ -1,0 +1,35 @@
+﻿asset_id,asset_name,technology,country,latitude,longitude,capacity_mw,ownership_pct,operational_status,start_of_operations,commissioning_year,portfolio_capacity_pct,remaining_asset_life_years
+ONW_001,Cumberhead,onshore_wind,UK,55.5721,-3.8746,50,100%,operational,31/03/2023,2,6%,28
+ONW_002,Crossdykes,onshore_wind,UK,55.1941,-3.1698,23,51%,operational,30/06/2021,4,3%,26
+ONW_003,Cerisou,onshore_wind,France,46.1777,0.3633,24,100%,operational,15/11/2022,3,3%,27
+ONW_004,Saunamaa,onshore_wind,Finland,62.5739,22.1002,34,100%,operational,28/08/2021,4,4%,26
+ONW_005,Suolakangas,onshore_wind,Finland,62.3921,22.3412,38,100%,operational,29/12/2021,4,4%,28
+ONW_006,Leeskow,onshore_wind,Germany,51.6008,14.0777,35,100%,operational,30/09/2022,3,4%,27
+OFW_001,Lincs,offshore_wind,UK,53.1655,0.5238,42,15.50%,operational,31/10/2013,12,5%,23
+SOL_001,Willburton 2 (Mingay Farm),solar,UK,52.331,0.154,19,100%,Operational,29/03/2014,11,2%,19
+SOL_002,Abbots Ripton,solar,UK,52.3726,-0.1943,25,100%,Operational,28/03/2014,11,3%,29
+SOL_003,Ermine Street,solar,UK,53.0152,-0.5214,32,100%,Operational,29/07/2014,11,4%,19
+SOL_004,Penhale,solar,UK,50.511,-4.9246,4,100%,Operational,18/03/2013,12,0.40%,28
+SOL_005,Chisbon,solar,UK,51.8219,1.0873,12,100%,Operational,05/03/2015,10,1%,25
+SOL_006,Westerfield,solar,UK,51.7854,-1.6082,13,100%,Operational,25/03/2015,10,2%,20
+SOL_007,Wiggin Hill,solar,UK,52.3557,-0.0774,11,100%,Operational,10/03/2015,10,1%,25
+SOL_008,Ottringham,solar,UK,53.7966,-0.3842,6,100%,Operational,07/08/2014,11,1%,29
+SOL_009,Breach,solar,UK,52.2919,0.3492,67,100%,Operational,25/06/2024,1,8%,39
+SOL_010,Charleval,solar,France,43.7199,5.245,6,100%,Operational,26/03/2013,12,1%,28
+SOL_011,Cuges-les-Pins,solar,France,43.2748,5.7015,7,100%,Operational,17/04/2013,12,1%,28
+SOL_012,Istres,solar,France,43.566,5,8,100%,Operational,18/06/2013,12,1%,28
+SOL_013,La Verdiere,solar,France,43.638,5.9348,6,100%,Operational,27/06/2013,12,1%,28
+SOL_014,Brignoles,solar,France,43.4064,6.0616,5,100%,Operational,26/06/2013,12,1%,28
+SOL_015,Saint-Antonin-du-Var,solar,France,43.5067,6.2892,8,100%,Operational,28/11/2013,12,1%,28
+SOL_016,Lovi 1,solar,France,43.2812,5.9703,6,100%,Operational,17/07/2014,11,1%,29
+SOL_017,Lovi 3,solar,France,43.2812,5.9703,6,100%,Operational,17/07/2014,11,1%,29
+SOL_018,Fontienne,solar,France,44.0087,5.794,10,100%,Operational,02/07/2015,10,1%,30
+SOL_019,Ollieres 1,solar,France,43.4955,5.7886,12,100%,Operational,19/03/2015,10,1%,30
+SOL_020,Ollieres 2,solar,France,43.4831,5.8291,11,100%,Operational,19/03/2015,10,1%,30
+SOL_021,Arsac 2,solar,France,44.9972,-0.6884,12,100%,Operational,05/03/2015,10,1%,18
+SOL_022,Arsac 5,solar,France,44.9972,-0.6884,12,100%,Operational,30/01/2015,10,1%,17
+SOL_023,Ballymacarney,solar,Ireland,53.4502,-6.3651,54,100%,Operational,18/12/2023,2,6%,39
+SOL_024,Kilsallaghan,solar,Ireland,53.471,-6.3293,29,100%,Operational,18/12/2023,2,8%,39
+SOL_025,Muckerstown,solar,Ireland,53.4731,-6.3867,48,100%,Operational,18/12/2023,2,6%,39
+SOL_026,Fidorfe,solar,Ireland,53.4665,-6.423,68,100%,Operational,18/12/2023,2,3%,39
+SOL_027,Harlockstown,solar,Ireland,53.4933,-6.4173,42,100%,Operational,23/09/2024,1,5%,40
