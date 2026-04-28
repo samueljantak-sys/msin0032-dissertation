@@ -1,9 +1,8 @@
-pandas
-numpy
-scikit-learn
-xgboost
-matplotlib
-seaborn
-requests
-xarray
-scipy
+matplotlib==3.10.0
+numpy==2.2.3
+pandas==2.2.3
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.2
+xarray==2026.2.0
+xgboost==3.2.0
